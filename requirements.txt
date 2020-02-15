@@ -1,0 +1,8 @@
+# This file should contain alphanumeric caracters only.
+
+# In this file, describe the package that requires additional installation.
+
+###### Requirements without Version Specifiers ######
+openpyxl
+
+###### Requirements with Version Specifiers ######
